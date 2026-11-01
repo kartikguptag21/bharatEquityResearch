@@ -1,0 +1,9 @@
+.env
+.venv/
+.streamlit/secrets.toml
+.pytest_cache/
+.ruff_cache/
+
+.sarvam_packages/
+.pip-tmp/
+.git_tools/
